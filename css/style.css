@@ -7,6 +7,13 @@ header a:hover{
     color: #fafafa;
 }
 
+#bg-img
+{
+    background: url('../img/home-bg_tmp.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
 
 #about{
     margin-top: 30px;
